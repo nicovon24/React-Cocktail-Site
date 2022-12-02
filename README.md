@@ -2,7 +2,8 @@
 React JS project made with a bar API I found on the internet.
 
 Hi! I have created this project, about a cocktail bar using React JS, pure CSS and an API (https://www.thecocktaildb.com/api/json/v1/1/lookup.php?i=). 
-I hope you can look at it, I really liked the styles :D. If you want to try the code in your pc, you need in the app file, do: 
+I have used also tools such as React hooks, React router and font-awesome.
+If you want to try the code in your pc, you need in the app file, do: 
 -npm install 
 -npm i --save @fortawesome/fontawesome-svg-core 
 -npm install --save @fortawesome/free-solid-svg-icons 
