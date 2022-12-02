@@ -30,9 +30,11 @@ export default function CocktailDetails() {
 
   return (
     <div className="cocktail-section">
-      <NavLink to="/">
-        <button className="btn-details">Back Home</button>
-      </NavLink>
+      <div className="cocktail-section-btnDetails-container">
+        <NavLink to="/">
+          <button className="btn-details">Back Home</button>
+        </NavLink>
+      </div>
       {map}
     </div>
   )

@@ -129,12 +129,17 @@ Buttons
   background: var(--primaryColor);
   color: var(--mainWhite);
   border-color: transparent;
+  margin: 0 auto;
   margin-top: 80px;
 }
 .btn-details:hover {
   background: var(--primaryLightColor);
   color: var(--primaryColor);
   border: 1px solid var(--primaryLightColor);
+}
+.cocktail-section-btnDetails-container{
+  display: flex;
+  justify-content: center;
 }
 /* 
 ====== 
